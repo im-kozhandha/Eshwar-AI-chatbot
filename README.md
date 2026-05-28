@@ -4,13 +4,9 @@
 
 Practical troubleshooting for Indian households, farmers, and small buildings — motors, tanks, borewells, pressure, electricity, and safe water basics. Built as a lean MVP to support customers today and Eshwar hardware + SaaS tomorrow.
 
+NOW LIVE! : https://eshwar-ai-chatbot.streamlit.app/
 ---
 
-> **GitHub repo description (copy-paste)**  
-> `AI copilot for Indian water & pump troubleshooting — Streamlit, Gemini, and RAG over a practical knowledge base.`
->
-> **Tagline**  
-> *Pump and tank intelligence for every home, farm, and rooftop.*
 
 ---
 
